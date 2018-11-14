@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Type-Hierarchy.xcodeproj">
+      location = "self:Type-Hierarchy-XCode.xcodeproj">
    </FileRef>
 </Workspace>

@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Type-Hierarchy
+//  Type-Hierarchy-XCode
 //
-//  Created by mitchell hudson on 11/13/16.
-//  Copyright © 2016 Mitchell Hudson. All rights reserved.
+//  Created by Mitchell Hudson on 11/14/18.
+//  Copyright © 2018 Mitchell Hudson. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
